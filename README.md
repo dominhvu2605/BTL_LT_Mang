@@ -1,6 +1,6 @@
-BTL LT Mang
+BTL LT Mạng
 
-De tai Game Server
+Đề tài Game Server
 
 Các bước clone và chạy project:
   1. Dowload zip hoặc clone project về máy
